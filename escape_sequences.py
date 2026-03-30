@@ -1,0 +1,8 @@
+print("Hi \"Python\"")
+print('Hi "Python"')
+print('Hi \'Python\'')
+print("Hi 'Python'")
+print("Path: C:\\Users\\Documents")
+print("Result1: \nResult2:")
+print("Subtotal: \t\tTotal:")
+print("Hello \b\b\b Python")
