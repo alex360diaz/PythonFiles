@@ -16,4 +16,4 @@ Python is easy learn.
 Python is powerful.
 Many people love python.
 """
-print(text.count("Python"))
+print(text.count("Python")) #is case-sensitive: means uppercase and lowercase letters are treated as different
