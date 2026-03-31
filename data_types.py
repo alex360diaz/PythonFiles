@@ -17,7 +17,4 @@ print("Int   --> a: ",a,
       "\nBool  --> f: ",f,
       "\nNone  --> g: ",g,
       "\nStr-Bl -> h: ",h,
-      "\nStr-Sp -> i: ",i,     
-      
-      
-      )
+      "\nStr-Sp -> i: ",i,)
