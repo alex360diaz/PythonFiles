@@ -24,7 +24,7 @@ print("Is this a valid email?:", "@" in emial)
 print("-"*44)
 # find() is great when combined with other methods to add dynamics
 # find(substring) --> retuns the starting position of a word in the string
-#Extract only phone numbres without country code
+# Extract only phone numbres without country code
 phone1 = "+52-176-12345"
 phone2 = "52-654-16548"
 
